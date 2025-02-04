@@ -1,4 +1,4 @@
-### Sequência de LEDs com Controle por Botão A
+# Sequência de LEDs com Controle por Botão A
 
 #### Visão Geral
 Este código implementa um sistema no Raspberry Pi Pico W, onde três LEDs (Vermelho, Verde e Azul) acendem simultaneamente quando o botão (BUTTON_A) é pressionado. Após 3 segundos, os LEDs começam a apagar em sequência, e o processo é controlado por um temporizador e por um mecanismo de debounce para o botão, evitando múltiplas leituras indesejadas.
