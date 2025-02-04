@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/one_shot_t02.uf2"
+elf = "build/one_shot_t02.elf"
